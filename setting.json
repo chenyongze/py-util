@@ -1,0 +1,12 @@
+{
+	"handle_lots_dev":{
+		"cron_time"	: "*/5 * * * * *",
+		"timeout"	: "6",
+		"params"	: {}
+	},
+	"handle_lots_online":{
+		"cron_time"	: "*/3 * * * * *",
+		"timeout"	: "6",
+		"params"	: {}
+	}
+}
